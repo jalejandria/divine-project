@@ -1,0 +1,158 @@
+body, h1, p, a, button{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+    overflow: hidden;
+    
+}
+h1{
+   padding-top: 90px;
+}
+
+#letter-G{
+    color: #4285F4;
+
+}
+#letter-O{
+    color: #EA4335;
+}
+#letter-o{
+    color: 	#FBBC05;
+
+}
+#letter-g{
+    color: 	#4285F4;
+}
+#letter-e{
+    color: #EA4335;
+}
+#letter-l{
+    color: #34A853;
+}
+
+#initial-footer{
+    margin-top: -305px;
+}
+
+#main-navi ul{
+background-color: #f1f3f9;
+height: 100px;
+list-style: none;
+text-decoration: none;
+margin-top: -10px;
+padding-top: 15px;
+
+}
+
+#main-navi li{
+    display: inline;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+    text-decoration: none;   
+    padding-right: 20px;
+    
+   
+}
+#main-navi li:hover{
+    text-decoration: underline;
+}
+ul a{
+    text-decoration: none;
+    color: #5f6368; 
+font-family: Arial, sans-serif
+}
+
+#Filipino{
+text-decoration: none;
+}
+#Cebuano{
+    text-decoration: none;
+}
+#Phil{
+    margin-top: 520px;
+    background: #f1f3f9;
+   padding-top: 20px;
+   padding-left: 40px;
+   height: 50px;
+   margin-bottom: -10px;
+   padding-bottom: 30px;
+}
+
+.container{
+    text-align: center;
+    margin-top: 30px;
+}
+
+#main-google{
+    margin: 10px;
+    margin-top: 100px;
+    font-size:  50px;
+}
+
+#Filipino:hover{ 
+    text-decoration: underline;
+}
+#Cebuano:hover{
+    text-decoration: underline;
+}
+.search-box{
+    border-radius: 25px;
+    height:45px;
+    width: 560px;
+    border-width: thin;
+    color: grey;
+    opacity:0.1;
+    background-color: #f2f2f2;
+ 
+}
+.search-box:hover{ 
+    box-shadow:-10px -3px 75px -5px  grey ; 
+    opacity: 0.3;
+    cursor: pointer;
+}
+
+#search-google{
+    background-color: #f8f9f9; 
+    color: #5f6368; 
+    border: 1px solid #dcdcdc; 
+    border-radius: 4px; 
+    padding: 10px 20px;
+    font-size: 14px;
+    cursor: pointer;
+    outline: none;
+    transition: background-color 0.3s ease, border-color 0.3s ease;
+   
+}
+
+#Lucky{
+    background-color: #f8f9f9;
+    color: #5f6368; 
+    border: 1px solid #dcdcdc;
+    border-radius: 4px; 
+    padding: 10px 20px;
+    font-size: 14px;
+    cursor: pointer;
+    outline: none;
+    transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+#Lucky:hover{
+    background-color: #f1f3f4;
+    border-color: #c6c6c6;
+}
+#search-google:hover{
+    background-color: #f1f3f4;
+    border-color: #c6c6c6;
+}
+#seperate{ 
+    margin-left: 10px;
+    float: right;
+}
+hr{ 
+    opacity: 0.3;
+    background-color: #f1f3f9;;
+}
+
+
+
