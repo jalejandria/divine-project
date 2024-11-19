@@ -77,7 +77,7 @@ button{
     margin: 20px 10px;
     border-radius: 25px;
     font-weight: bold;
-    border: 2px solid #009688;
+    border: 2px solid #089cff;
     background: transparent;
     color: #fff;
     cursor: pointer;
@@ -85,12 +85,12 @@ button{
     overflow: hidden;
 }
 span{
-    background: #009688;
+    background: #089cff;
     height: 100px;
     width: 100%;
     border-radius: 25px;
     position: absolute;
     left: 0;
     bottom: 0;
-    
+
 }
